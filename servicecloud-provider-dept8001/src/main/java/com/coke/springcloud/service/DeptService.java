@@ -2,7 +2,7 @@ package com.coke.springcloud.service;
 
 import java.util.List;
 
-import com.dingwei.springcloud.entities.Dept;
+import com.coke.springcloud.entities.Dept;
 
 public interface DeptService {
 	

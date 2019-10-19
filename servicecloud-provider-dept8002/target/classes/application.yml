@@ -32,5 +32,5 @@ eureka:
 info:
   app.name: coke-servicecloud
   company.name: http://www.jingyoutimes.com
-  build.artifactId: $project.artifactId$
-  build.version: $project.version$
+  build.artifactId: servicecloud-provider-dept8002
+  build.version: 0.0.1-SNAPSHOT

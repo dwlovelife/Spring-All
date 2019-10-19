@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.client.RestTemplate;
 
-import com.dingwei.springcloud.entities.Dept;
+import com.coke.springcloud.entities.Dept;
 
 @Controller
 public class DeptController_Consumer {

@@ -9,8 +9,8 @@
   
   <dependencies>
 		<dependency><!-- 自己定义的api -->
-			<groupId>com.dingwei.springcloud</groupId>
-			<artifactId>microservicecloud-api</artifactId>
+			<groupId>com.coke.springcloud</groupId>
+			<artifactId>servicecloud-api</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 		<!-- Ribbon相关 -->

@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.coke.springcloud.dao.DeptDao;
+import com.coke.springcloud.entities.Dept;
 import com.coke.springcloud.service.DeptService;
-import com.dingwei.springcloud.entities.Dept;
 
 @Service
 public class DeptServiceImpl implements DeptService{
